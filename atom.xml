@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Vivid Helix]]></title>
+  <link href="http://vividhelix.com/atom.xml" rel="self"/>
+  <link href="http://vividhelix.com/"/>
+  <updated>2013-10-11T17:29:24-06:00</updated>
+  <id>http://vividhelix.com/</id>
+  <author>
+    <name><![CDATA[Vivid Helix]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

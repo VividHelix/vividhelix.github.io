@@ -26,6 +26,19 @@ a:hover {
     padding-top: 10px;
 }
 
+.icon_link {
+    padding: 3px;
+    max-height: 24px;
+}
+
+.text_link{
+    color: #A7A7A7;
+}
+
+.text_link:hover{
+    color: #A7DBD8;
+}
+
 hr {
     border-color: #FA6900;
     border-width: 1px 0 0;

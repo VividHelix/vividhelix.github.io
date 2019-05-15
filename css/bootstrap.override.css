@@ -1,2 +1,27 @@
-a{color: #00bcc8}
-a:hover{color: #00f3ff}
+a {
+    color: #00bcc8
+}
+
+a:hover {
+    color: #00f3ff
+}
+
+.store_button {
+    background: rgba(0, 0, 0, 0);
+    padding: 3px;
+    margin: 3px;
+}
+
+.store_button:hover, .store_button:focus {
+    background: #A7DBD8;
+}
+
+.award_img {
+    width: 100%;
+    max-width:100px;
+}
+
+.screenshot_img {
+    width: 100%;
+    padding-top: 10px;
+}

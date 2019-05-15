@@ -61,7 +61,7 @@ download these screenshots and more as ** [.zip (27MB)](../../img/ss/press/scree
 
 ## Logos & Icon
 
-download all logos/icon as ** [.zip (5MB)](../img/logos/logos_and_icon.zip "Logos and icon") **
+download all logos/icon as ** [.zip (5MB)](../../img/ss/press/logos/logos_and_icon.zip "Logos and icon") **
 
 
 <img src="../../img/ss/press/logos/semispheres_logo.jpg" width="400" style="padding:10px;" />

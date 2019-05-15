@@ -8,8 +8,8 @@ a:hover {
 
 .store_button {
     background: rgba(0, 0, 0, 0);
-    padding: 3px;
-    margin: 3px;
+    padding: 2px;
+    margin: 2px;
 }
 
 .store_button:hover, .store_button:focus {

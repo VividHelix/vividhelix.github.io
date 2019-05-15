@@ -39,10 +39,16 @@ a:hover {
     color: #A7DBD8;
 }
 
-hr {
+.hr_orange, .hr_blue {
     border-color: #FA6900;
     border-width: 1px 0 0;
     clear: both;
     height: 0;
     margin: 1.25rem 0 1.1875rem;
+}
+.hr_orange {
+    border-color: #FA6900;
+}
+.hr_blue {
+    border-color: #0097fa;
 }

@@ -15,7 +15,7 @@ PlayStation Vita: 10 Oct 2017
 XBox One: Q4 2017
 
 **Website:**  
-[semispher.es](http://semispheresgame.com)
+[vividhelix.com/semispheres](vividhelix.com/semispheres)
 
 **Devlog:**
 [TIGSource](http://forums.tigsource.com/index.php?topic=48508.0)

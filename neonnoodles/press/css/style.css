@@ -9,10 +9,10 @@ html {
 }
 
 body {
-  color: #444;
+  background-color: #222;
+  color: #d2d2d2;
   font-family: 'Open Sans', sans-serif;
   padding-bottom: 200px;
-
 }
 
 a, a:link, a:visited, a:hover, a:focus {
@@ -50,12 +50,17 @@ h6, .h6 {
   margin-bottom: 19px;
 }
 
+.navbar-default {
+  background-color: #333;
+}
+
 .header a, .header a:active, .header a:focus {
   color: #999;
+  background-color: #333;
 }
 
 .header a:hover {
-  color: #333;
+  color: #bbb;
 }
 
 .header a {
@@ -76,8 +81,8 @@ h6, .h6 {
 }
 
 .header li {
-  border-left: 1px solid rgba(255, 255, 255, 0.5);
-  border-right: 1px solid #DDD;
+  /*border-left: 1px solid rgba(255, 255, 255, 0.5);*/
+  /*border-right: 1px solid #DDD;*/
   display:inline;
 }
 
@@ -94,7 +99,7 @@ h6, .h6 {
 /* Sidebar */
 
 .menubar a {
-  color: #444;
+  color: #ccc;
 }
 
 .menubar li {
@@ -102,7 +107,7 @@ h6, .h6 {
 }
 
 .menubar a.level-1 {
-  color: #000;
+  color: #fff;
   font-size: 30px;
 }
 

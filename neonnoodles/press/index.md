@@ -8,6 +8,10 @@ Vivid Helix
 **Release Date:**  
 Late 2019/Early 2020
 
+**Platforms**
+
+[Steam](https://store.steampowered.com/app/990900/Neon_Noodles__Cyberpunk_Kitchen_Automation/) / Consoles 
+
 **Website:**  
 [neonnoodles.com](http://neonnoodles.com)
 

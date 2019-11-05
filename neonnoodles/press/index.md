@@ -72,9 +72,11 @@ download all logos/icon as ** [.zip (10MB)](../../img/nn/press/logos/logos.zip "
 > * Official [**Seattle Indies Expo**](http://seattleindies.org/six/) selection at [**SIX at PAX 2019**](http://seattleindies.org/six/) - *Sep 2019*
 > * Official [**Indie Prize**](http://www.indieprize.org) selection at [**GameDaily Connect USA 2019**](http://usa.casualconnect.org/) - *Aug 2019*
 
-## Articles
+## Articles/Videos
 
-> * **https://forbes.com/sites/melissabrinks/2019/09/09/the-7-best-indie-games-i-played-at-pax-west-2019/**
+> * Forbes: **https://forbes.com/sites/melissabrinks/2019/09/09/the-7-best-indie-games-i-played-at-pax-west-2019/**
+> * Rock Paper Shotgun: **https://www.rockpapershotgun.com/2019/10/30/neon-noodles-is-a-zachlike-cookery-game-about-automating-meals/**
+> * Today I Played (Yogscast Lewis): **https://youtu.be/Q5VXwYyazo4**
 
 
 ## Project Credits

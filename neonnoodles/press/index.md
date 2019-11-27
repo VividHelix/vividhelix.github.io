@@ -42,14 +42,14 @@ And a gameplay video:
 
 ## Screenshots
 
-download these screenshots as ** [.zip (7MB)](../../img/nn/press/screens/neon_noodles_screens.zip "Screenshots zip") **
+download these screenshots as ** [.zip (34MB)](../../img/nn/press/screens/neon_noodles_screens.zip "Screenshots zip") **
 
-<img src="../../img/nn/press/screens/screenshot1.png" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screenshot2.png" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screenshot3.png" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screenshot4.png" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screenshot5.png" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screenshot6.png" width="400" style="padding:10px;" />
+<img src="../../img/nn/press/screens/screen01.jpg" width="400" style="padding:10px;" />
+<img src="../../img/nn/press/screens/screen02.jpg" width="400" style="padding:10px;" />
+<img src="../../img/nn/press/screens/screen03.jpg" width="400" style="padding:10px;" />
+<img src="../../img/nn/press/screens/screen04.jpg" width="400" style="padding:10px;" />
+<img src="../../img/nn/press/screens/screen05.jpg" width="400" style="padding:10px;" />
+<img src="../../img/nn/press/screens/screen06.jpg" width="400" style="padding:10px;" />
 
 ## Gifs
 <img src="../../img/nn/press/gifs/50_neon_noodles_gif.gif" width="400" style="padding:10px;" />
